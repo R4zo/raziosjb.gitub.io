@@ -1,0 +1,10 @@
+Package: net.raziosjb.package
+Name: Test Package
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a test package 
+Depiction: http://raziosjb.github.io/
+Homepage: http://raziosjb.github.io/
+Maintainer: razo <lalrazo@usa.com>
+Author: razo<wlalrazo@usa.com>
+Section: Themes
